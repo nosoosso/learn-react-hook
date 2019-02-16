@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="14" />
+    <option name="y" value="-35" />
+    <option name="width" value="2424" />
+    <option name="height" value="1378" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../blog-finch" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../blog-play" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
